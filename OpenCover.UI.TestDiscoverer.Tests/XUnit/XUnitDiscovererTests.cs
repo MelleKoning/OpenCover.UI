@@ -9,7 +9,7 @@ using OpenCover.UI.TestDiscoverer.TestResources.xUnit;
 
 namespace OpenCover.UI.TestDiscoverer.Tests.XUnit
 {
-    [Ignore]
+   
     [TestFixture]
     class XUnitDiscovererTests : DiscovererTestsBase
     {
